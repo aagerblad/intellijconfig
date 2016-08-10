@@ -17,16 +17,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1469648928430">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="35" />
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1470856109248">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="26" />
       </file>
-      <file name="/REPL.clj" timestamp="1469647519792">
+      <file name="/REPL.clj" timestamp="1470855860819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1469651074140">
-        <mark key="'" line="13" column="26" />
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1470855733182">
+        <mark key="'" line="15" column="46" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -76,16 +77,20 @@
       <jump line="9" column="7" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="8" column="7" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="13" column="26" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
+      <jump line="15" column="46" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIChhc3NvYyBkYiA6YXJ0aXN0IGFydGlzdCkK</text>
+      <register name="&quot;" type="4">
+        <text>424242</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>424242</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">KGRlZiBkYXJrLWdyZXkgIiM0MjQyNDIiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIChhc3NvYyBkYiA6YXJ0aXN0IGFydGlzdCkK</text>
@@ -182,6 +187,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
