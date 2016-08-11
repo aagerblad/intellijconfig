@@ -19,12 +19,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1470929878047">
-        <mark key="'" line="16" column="47" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="44" />
+      <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1470931246689">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/subs.cljs" timestamp="1469650802365">
         <mark key="'" line="5" column="3" />
@@ -107,16 +107,17 @@
       <jump line="8" column="7" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="13" column="26" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
       <jump line="16" column="47" filename="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
+      <jump line="9" column="25" filename="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIChhc3NvYyBkYiA6YXJ0aXN0IGFydGlzdCkK</text>
+      <register name="&quot;" type="4">
+        <text>Hejsan</text>
       </register>
       <register name="j" type="4">
         <text>kkhhj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Hejsan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnRpc3RcPg==</text>
@@ -171,15 +172,16 @@
         <entry>action :cursive.actions.paredit/kill-sexp</entry>
         <entry>action :cursive.actions.paredit/raise</entry>
         <entry>*p</entry>
-        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
         <entry>action :cursive.actions.paredit/join</entry>
         <entry>echo $VIMRC</entry>
         <entry>echo $IDEAVIMRC</entry>
-        <entry>action :cursive.actions.paredit/barf-forwards</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3dyYXAtcGFyZW4=</entry>
         <entry>action :cursive.actions.paredit/splice-killing-backwards</entry>
-        <entry>action :cursive.actions.paredit/slurp-backwards</entry>
-        <entry>action :cursive.actions.paredit/barf-backwards</entry>
+        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
+        <entry>action :cursive.actions.paredit/barf-forwards</entry>
         <entry>action :cursive.actions.paredit/slurp-forwards</entry>
+        <entry>action :cursive.actions.paredit/barf-backwards</entry>
+        <entry>action :cursive.actions.paredit/slurp-backwards</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
       </history-cmd>
       <history-expr />
