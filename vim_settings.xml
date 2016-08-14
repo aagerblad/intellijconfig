@@ -13,12 +13,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471176760138">
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471178013924">
         <mark key="'" line="13" column="26" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
+        <mark key="[" line="50" column="29" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="50" column="45" />
       </file>
       <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1470929878047">
         <mark key="'" line="16" column="47" />
@@ -64,9 +64,6 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="/REPL.clj" timestamp="1471167000728">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/routes.cljs" timestamp="1471167812497">
         <mark key="'" line="3" column="36" />
         <mark key="[" line="1" column="0" />
@@ -111,13 +108,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>kkhhj</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnRpc3RcPg==</text>
@@ -153,7 +150,7 @@
         <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action :cursive.actions.paredit/barf-forwards</text>
+        <text>action :cursive.actions.paredit/wrap-paren</text>
       </register>
     </registers>
     <search>
@@ -179,10 +176,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3dyYXAtcGFyZW4=</entry>
         <entry>action :cursive.actions.paredit/barf-backwards</entry>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
-        <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
         <entry>action :cursive.actions.paredit/slurp-forwards</entry>
         <entry>action :cursive.actions.paredit/barf-forwards</entry>
+        <entry>action :cursive.actions.paredit/wrap-paren</entry>
       </history-cmd>
       <history-expr />
       <history-input />
