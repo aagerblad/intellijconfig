@@ -13,12 +13,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471167612081">
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471176760138">
         <mark key="'" line="13" column="26" />
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="24" />
-        <mark key="." line="49" column="24" />
-        <mark key="^" line="49" column="24" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
       </file>
       <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1470929878047">
         <mark key="'" line="16" column="47" />
@@ -59,7 +59,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1471167143357">
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1471174943528">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
@@ -79,12 +79,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1471168077431">
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1471175598048">
         <mark key="'" line="8" column="7" />
-        <mark key="[" line="9" column="60" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1469971319700">
         <mark key="[" line="0" column="0" />
@@ -111,49 +111,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <text>kkhhj</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnRpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzIzQ0Y1RjsK</text>
+        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAoc3RyICJJRDogIiBpZCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIChhc3NvYyBkYiA6YXJ0aXN0IGFydGlzdCkK</text>
+        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAoc3RyICJJRDogIiBpZCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChhc3NvYyBkYiA6YXJ0aXN0LXNlYXJjaCBhcnRpc3Qtc2VhcmNoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSUQ6ICIgaWQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSUQ6ICIgaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBbOi5hcnRpc3QtbmFtZV0K</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSEVKU0FOOiAiIGlkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAobGV0IFthcnRpc3RzIChzdWJzY3JpYmUgWzphcnRpc3RzXSldCg==</text>
+        <text encoding="base64">ICAgICAgICAgIChhc3NvYyBkYiA6YXJ0aXN0IGFydGlzdCkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Lgo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIChhc3NvYyBkYiA6YXJ0aXN0LXNlYXJjaCBhcnRpc3Qtc2VhcmNoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action :cursive.actions.paredit/slurp-backwards</text>
+        <text>action :cursive.actions.paredit/barf-forwards</text>
       </register>
     </registers>
     <search>
@@ -177,12 +177,12 @@
         <entry>echo $IDEAVIMRC</entry>
         <entry>action :cursive.actions.paredit/splice-killing-backwards</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3dyYXAtcGFyZW4=</entry>
-        <entry>action :cursive.actions.paredit/wrap-paren</entry>
-        <entry>action :cursive.actions.paredit/slurp-forwards</entry>
-        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
-        <entry>action :cursive.actions.paredit/barf-forwards</entry>
         <entry>action :cursive.actions.paredit/barf-backwards</entry>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
+        <entry>action :cursive.actions.paredit/wrap-paren</entry>
+        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
+        <entry>action :cursive.actions.paredit/slurp-forwards</entry>
+        <entry>action :cursive.actions.paredit/barf-forwards</entry>
       </history-cmd>
       <history-expr />
       <history-input />
