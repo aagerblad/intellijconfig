@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1464025130771">
+      <file name="/Dummy.txt" timestamp="1471187858722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Users/Andreas/Git/Clojure/the-divine-cheese-code/src/the_divine_cheese_code/visualization/svg.clj" timestamp="1465759618051">
@@ -13,13 +13,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471185152185">
-        <mark key="'" line="60" column="38" />
-        <mark key="j" line="15" column="18" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471186882288">
+        <mark key="'" line="59" column="38" />
+        <mark key="j" line="13" column="18" />
+        <mark key="[" line="52" column="7" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
       </file>
       <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1470929878047">
         <mark key="'" line="16" column="47" />
@@ -60,7 +59,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1471174943528">
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1471187454959">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
@@ -84,12 +83,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1471182048882">
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1471187060116">
         <mark key="'" line="9" column="37" />
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="41" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="33" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1469971319700">
         <mark key="[" line="0" column="0" />
@@ -120,14 +119,14 @@
       <jump line="13" column="6" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/api.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGRlZiBiYWNrZ3JvdW5kLWNvbG9yICIjMTExIikK</text>
       </register>
       <register name="j" type="4">
         <text>kkhhj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGIg</text>
+        <text>clj-response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -136,37 +135,38 @@
         <text encoding="base64">KHJlZ2lzdGVyLWhhbmRsZXIKICA6cmVsYXRlZC1hcnRpc3RzLXJlc3BvbnNlCiAgdHJpbS12CiAgcmVsYXRlZC1hcnRpc3RzLXJlc3BvbnNlLWhhbmRsZXIpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">KGRlZiBiYWNrZ3JvdW5kLWNvbG9yICIjMTExIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>[clj-response 
+        name (:name clj-response)]</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgbmFtZSAoOm5hbWUgY2xqLXJlc3BvbnNlKQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgbmFtZSAoOm5hbWUgY2xqLXJlc3BvbnNlKQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgaWQpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiSGVqIikK</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>(do
                                      (js/console.log @artist)
                                      (:name @artist))</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>{:handler   #(dispatch [:related-artistsreonse %])
                        :error-handler #(dispatch [:failed-response %])}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CihkZWZuIGFydGlzdHMgW2lkIG9wdGlvbnNdCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA7KGFzc29jIGRiIDphcnRpc3QgKHN0ciAiSUQ6ICIgaWQpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAiaGVqc2FuIikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAoc3RyICJJRDogIiBpZCkpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action :cursive.actions.paredit/wrap-paren</text>
+        <text>action :cursive.actions.paredit/splice</text>
       </register>
     </registers>
     <search>
@@ -183,14 +183,10 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action :cursive.actions.paredit/kill-sexp</entry>
-        <entry>action :cursive.actions.paredit/raise</entry>
         <entry>*p</entry>
         <entry>action :cursive.actions.paredit/join</entry>
         <entry>echo $VIMRC</entry>
         <entry>echo $IDEAVIMRC</entry>
-        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
-        <entry>action :cursive.actions.paredit/splice-killing-backwards</entry>
         <entry>action :cursive.actions.paredit/barf-backwards</entry>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
         <entry>action :cursive.actions.paredit/barf-forwards</entry>
@@ -201,8 +197,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3NwbGljZS1raWxsaW5nLWZvcndhcmRz</entry>
         <entry>action :cursive.actions.paredit/wrap-curly</entry>
         <entry>action :cursive.actions.paredit/wrap-square</entry>
+        <entry>action :cursive.actions.paredit/splice-killing-backwards</entry>
+        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3dyYXAtcGFyZW4=</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
+        <entry>action :cursive.actions.paredit/raise</entry>
+        <entry>action :cursive.actions.paredit/splice</entry>
       </history-cmd>
       <history-expr />
       <history-input />
