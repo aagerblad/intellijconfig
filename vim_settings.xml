@@ -13,12 +13,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471178013924">
-        <mark key="'" line="13" column="26" />
-        <mark key="[" line="50" column="29" />
-        <mark key="]" line="50" column="29" />
-        <mark key="." line="50" column="29" />
-        <mark key="^" line="50" column="45" />
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" timestamp="1471182533230">
+        <mark key="'" line="53" column="38" />
+        <mark key="[" line="55" column="50" />
+        <mark key="]" line="51" column="62" />
+        <mark key="." line="51" column="62" />
+        <mark key="^" line="51" column="62" />
       </file>
       <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1470929878047">
         <mark key="'" line="16" column="47" />
@@ -64,6 +64,13 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/api.cljs" timestamp="1471182263598">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/routes.cljs" timestamp="1471167812497">
         <mark key="'" line="3" column="36" />
         <mark key="[" line="1" column="0" />
@@ -76,12 +83,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1471175598048">
-        <mark key="'" line="8" column="7" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" timestamp="1471182048882">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1469971319700">
         <mark key="[" line="0" column="0" />
@@ -101,62 +108,70 @@
       <jump line="11" column="1" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="6" column="44" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="7" column="29" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
-      <jump line="9" column="7" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="8" column="7" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="13" column="26" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
       <jump line="16" column="47" filename="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
+      <jump line="9" column="37" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
+      <jump line="57" column="23" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
+      <jump line="97" column="2" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
+      <jump line="96" column="2" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
+      <jump line="53" column="38" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
+      <jump line="13" column="6" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/api.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <text>kkhhj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnRpc3RcPg==</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAoc3RyICJJRDogIiBpZCkpCg==</text>
+        <text encoding="base64">KGRlZm4gcmVsYXRlZC1hcnRpc3RzIFtpZCBvcHRpb25zXQogIChHRVQgKHN0ciBzcG90aWZ5LWJhc2UtdXJsICIvYXJ0aXN0cy8iIGlkICIvcmVsYXRlZC1hcnRpc3RzIikgKG1lcmdlIG9wdGlvbnMgZGVmYXVsdC1vcHRpb25zKSkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAoc3RyICJJRDogIiBpZCkpCg==</text>
+      <register name="1" type="4">
+        <text>(do
+                                     (js/console.log @artist)
+                                     (:name @artist))</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{:handler   #(dispatch [:related-artistsreonse %])
+                       :error-handler #(dispatch [:failed-response %])}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSUQ6ICIgaWQpKQo=</text>
+        <text encoding="base64">CihkZWZuIGFydGlzdHMgW2lkIG9wdGlvbnNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSUQ6ICIgaWQpCg==</text>
+        <text encoding="base64">ICA7KGFzc29jIGRiIDphcnRpc3QgKHN0ciAiSUQ6ICIgaWQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSEVKU0FOOiAiIGlkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIChhc3NvYyBkYiA6YXJ0aXN0IGFydGlzdCkK</text>
+        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAiaGVqc2FuIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChhc3NvYyBkYiA6YXJ0aXN0LXNlYXJjaCBhcnRpc3Qtc2VhcmNoKQo=</text>
+        <text encoding="base64">ICAoYXNzb2MgZGIgOmFydGlzdCAoc3RyICJJRDogIiBpZCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIFs6aDIuYXJ0aXN0ICJBcnRpc3QgbmFtZSJdXSkpKQo=</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgKHN0ciAiSUQ6ICIgaWQpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action :cursive.actions.paredit/wrap-paren</text>
+        <text>action :cursive.actions.paredit/slurp-forwards</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcnRpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnRpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -164,6 +179,7 @@
       <history-search>
         <entry encoding="base64">XDxkb2NzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxhcnRpc3RcPg==</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action :cursive.actions.paredit/kill-sexp</entry>
@@ -172,14 +188,18 @@
         <entry>action :cursive.actions.paredit/join</entry>
         <entry>echo $VIMRC</entry>
         <entry>echo $IDEAVIMRC</entry>
-        <entry>action :cursive.actions.paredit/splice-killing-backwards</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3dyYXAtcGFyZW4=</entry>
+        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
+        <entry>action :cursive.actions.paredit/wrap-paren</entry>
+        <entry>action :cursive.actions.paredit/splice-killing-backwards</entry>
         <entry>action :cursive.actions.paredit/barf-backwards</entry>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
-        <entry>action :cursive.actions.paredit/splice-killing-forwards</entry>
-        <entry>action :cursive.actions.paredit/slurp-forwards</entry>
         <entry>action :cursive.actions.paredit/barf-forwards</entry>
-        <entry>action :cursive.actions.paredit/wrap-paren</entry>
+        <entry>action :cursive.actions.paredit/slurp-forwards</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3NwbGljZS1raWxsaW5nLWJhY2t3YXJkcw==</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L2JhcmYtZm9yd2FyZHM=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3NsdXJwLWZvcndhcmRz</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gOmN1cnNpdmUuYWN0aW9ucy5wYXJlZGl0L3NwbGljZS1raWxsaW5nLWZvcndhcmRz</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -256,6 +276,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
