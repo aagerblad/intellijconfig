@@ -33,6 +33,10 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/Git/spotify-data-extrapolator/project.clj" timestamp="1483390204375">
+        <mark key="'" line="47" column="35" />
+        <mark key="." line="47" column="57" />
+      </file>
       <file name="E:/Users/Andreas/Git/spotify-data-extrapolator/src/clj/spotify_data_extrapolator/css.clj" timestamp="1469304636943">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="22" />
@@ -111,6 +115,7 @@
       <jump line="8" column="7" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
       <jump line="13" column="26" filename="$USER_HOME$/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/handlers.cljs" />
       <jump line="16" column="47" filename="E:/Users/Andreas/Git/spotify-data-extrapolator/src/cljs/spotify_data_extrapolator/views.cljs" />
+      <jump line="47" column="35" filename="$USER_HOME$/Git/spotify-data-extrapolator/project.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
